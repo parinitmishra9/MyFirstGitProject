@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56529" started-at="2017-04-14T11:24:26Z" finished-at="2017-04-14T11:25:23Z">
+    <groups>
+    </groups>
+    <test name="UnitTest" duration-ms="56529" started-at="2017-04-14T11:24:26Z" finished-at="2017-04-14T11:25:23Z">
+      <class name="testCase.Verify_VelidLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="setUp" is-config="true" duration-ms="409" started-at="2017-04-14T16:54:26Z" finished-at="2017-04-14T16:54:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="validLogin" duration-ms="56483" started-at="2017-04-14T16:54:26Z" finished-at="2017-04-14T16:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="getResult" is-config="true" duration-ms="9" started-at="2017-04-14T16:55:23Z" finished-at="2017-04-14T16:55:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=Verify_VelidLogin.validLogin()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="tearDown" is-config="true" duration-ms="1606" started-at="2017-04-14T16:55:23Z" finished-at="2017-04-14T16:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.Verify_VelidLogin -->
+    </test> <!-- UnitTest -->
+  </suite> <!-- Suite -->
+</testng-results>
