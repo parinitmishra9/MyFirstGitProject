@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56529" started-at="2017-04-14T11:24:26Z" finished-at="2017-04-14T11:25:23Z">
+  <suite name="Suite" duration-ms="71573" started-at="2017-04-15T12:44:55Z" finished-at="2017-04-15T12:46:07Z">
     <groups>
     </groups>
-    <test name="UnitTest" duration-ms="56529" started-at="2017-04-14T11:24:26Z" finished-at="2017-04-14T11:25:23Z">
+    <test name="UnitTest" duration-ms="71573" started-at="2017-04-15T12:44:55Z" finished-at="2017-04-15T12:46:07Z">
       <class name="testCase.Verify_VelidLogin">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="setUp" is-config="true" duration-ms="409" started-at="2017-04-14T16:54:26Z" finished-at="2017-04-14T16:54:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="setUp" is-config="true" duration-ms="306" started-at="2017-04-15T18:14:55Z" finished-at="2017-04-15T18:14:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validLogin()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="validLogin" duration-ms="56483" started-at="2017-04-14T16:54:26Z" finished-at="2017-04-14T16:55:23Z">
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="validLogin" duration-ms="71537" started-at="2017-04-15T18:14:55Z" finished-at="2017-04-15T18:16:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="getResult" is-config="true" duration-ms="9" started-at="2017-04-14T16:55:23Z" finished-at="2017-04-14T16:55:23Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="getResult" is-config="true" duration-ms="12" started-at="2017-04-15T18:16:07Z" finished-at="2017-04-15T18:16:07Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="tearDown" is-config="true" duration-ms="1606" started-at="2017-04-14T16:55:23Z" finished-at="2017-04-14T16:55:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.Verify_VelidLogin@3e6fa38a]" name="tearDown" is-config="true" duration-ms="1900" started-at="2017-04-15T18:16:07Z" finished-at="2017-04-15T18:16:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
